@@ -1,1 +1,1 @@
-# basic-banking-sysytem
+# basic-banking-system
